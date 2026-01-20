@@ -20,7 +20,7 @@
 
 ## Giới thiệu
 
-**Offline Browser Profile** là giải pháp trình duyệt ẩn danh được phát triển cho nhu cầu cá nhân. Công cụ giúp bạn quản lý nhiều tài khoản trên cùng một thiết bị Windows mà không lo bị phát hiện hoặc trùng lặp dấu vân tay trình duyệt (browser fingerprint).
+**Offline Browser Profile** được phát triển cho nhu cầu cá nhân. Công cụ giúp bạn quản lý nhiều tài khoản trên cùng một thiết bị Windows mà không lo bị phát hiện hoặc trùng lặp dấu vân tay trình duyệt (browser fingerprint).
 
 ### Điểm nổi bật
 
