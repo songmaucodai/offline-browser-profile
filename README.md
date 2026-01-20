@@ -2,9 +2,9 @@
 
   <img src="Logo-app.png" alt="Offline Browser Profile Logo" width="120" height="120">
 
-  # SMCD AntiDetect Browser
+  # Offline Browser Profile
 
-  **Trình duyệt ẩn danh cá nhân cho Windows**
+  **Hồ sơ trình duyệt cá nhân cho Windows**
   
   [![Status](https://img.shields.io/badge/Status-In_Development-orange?style=flat-square)]()
   [![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?style=flat-square)]()
